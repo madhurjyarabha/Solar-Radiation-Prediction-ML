@@ -1,0 +1,72 @@
+dataframe Without Outlier and Scaled Feature:
+
+
+Linear Regs :
+
+Mean Absolute Error:118.80
+Mean Squared Error:25142.90
+Root Mean Squared Error:158.57
+R2 Score:0.60
+========================================
+Decision Tree Regs :
+
+Mean Absolute Error:32.66
+Mean Squared Error:7581.00
+Root Mean Squared Error:87.07
+R2 Score:0.88
+========================================
+Random Forest Regs :
+
+Mean Absolute Error:24.90
+Mean Squared Error:3780.41
+Root Mean Squared Error:61.49
+R2 Score:0.94
+========================================
+SV Regs :
+
+Mean Absolute Error:116.99
+Mean Squared Error:44918.02
+Root Mean Squared Error:211.94
+R2 Score:0.29
+========================================
+SGD Regs :
+
+Mean Absolute Error:119.07
+Mean Squared Error:25193.18
+Root Mean Squared Error:158.72
+R2 Score:0.60
+========================================
+Gradient Boosting Regs :
+
+Mean Absolute Error:47.45
+Mean Squared Error:7478.05
+Root Mean Squared Error:86.48
+R2 Score:0.88
+========================================
+KNNeighbors Rges :
+
+Mean Absolute Error:50.30
+Mean Squared Error:10185.66
+Root Mean Squared Error:100.92
+R2 Score:0.84
+========================================
+Ridge Regs :
+
+Mean Absolute Error:118.72
+Mean Squared Error:25153.07
+Root Mean Squared Error:158.60
+R2 Score:0.60
+========================================
+AdaBoost Regs :
+
+Mean Absolute Error:64.66
+Mean Squared Error:11356.93
+Root Mean Squared Error:106.57
+R2 Score:0.82
+========================================
+XG Boost Regs:
+
+Mean Absolute Error:30.48
+Mean Squared Error:4203.97
+Root Mean Squared Error:64.84
+R2 Score:0.93
